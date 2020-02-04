@@ -8,7 +8,7 @@ assignees: MartinX3
 ---
 
 **Platform:** TAMA
-**Device:** AKARI, APOLLO, AURORA, AKATSUKI
+**Device:** AKARI, APOLLO, AKATSUKI
 **Kernel version:** 4.14
 **Android version:** 10.0
 

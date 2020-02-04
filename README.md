@@ -9,7 +9,6 @@ Supported devices:
    - SDM845 devices (tama board):
       - Xperia XZ2 ....................... Akari
       - Xperia XZ2 Compact ...... Apollo
-      - Xperia XZ2 Premium ...... Aurora
       - Xperia XZ3 ....................... Akatsuki
 
 How to add a bug report
